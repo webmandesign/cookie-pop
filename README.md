@@ -1,0 +1,1 @@
+**EU cookies law banner WordPress plugin created from https://code.tutsplus.com/tutorials/implementing-the-eu-cookie-law-into-your-wordpress-site--cms-21750**

@@ -1,0 +1,20 @@
+/**
+ * Cookie Pop styles
+ *
+ * @package  Cookie Pop
+ *
+ * @since    1.0
+ */
+
+#cookiepop {
+	position: fixed;
+	width: 100%;
+	left: 0;
+	bottom: 0;
+	text-align: center;
+	background-color: #333;
+	color: #fff;
+	z-index: 100000;
+}
+	#cookiepop button {margin: 5px 10px}
+	#cookiepop a {color: inherit}

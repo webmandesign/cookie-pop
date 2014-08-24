@@ -1,0 +1,26 @@
+# Copyright (C) 2014 WebMan - Oliver Juhas
+# This file is distributed under the same license as the WordPress package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Cookie Pop v1.0\n"
+"POT-Creation-Date: 2014-08-24 12:00:00+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: Oliver Juhas <webmandesigneu@gmail.com>\n"
+
+
+#. Text in function
+#: cookie-pop.php:1
+msgid "By using our website, you agree to the use of our cookies."
+msgstr ""
+
+#. Text in function
+#: cookie-pop.php:1
+msgid "OK"
+msgstr ""
+
+#. Text in function
+#: cookie-pop.php:1
+msgid "Read More..."
+msgstr ""
